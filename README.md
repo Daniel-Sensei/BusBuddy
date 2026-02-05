@@ -5,7 +5,7 @@ BusBuddy is a revolutionary real-time bus tracking system developed as an underg
 
 The project consists of two main components:
 1. **Client app** (this repository)
-2. **Tracker app** (https://github.com/Daniel-Sensei/BusBuddy_Tracker.git)
+2. **Tracker app** (private repository)
 
 ## Screenshots
 ### White Theme
